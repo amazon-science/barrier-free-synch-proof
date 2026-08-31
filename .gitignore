@@ -1,0 +1,6 @@
+.lake/
+.claude/
+.kiro/
+*.LOG
+BackwardSimOld.lean
+Scratch.lean
